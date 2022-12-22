@@ -24,7 +24,7 @@
     "formik": "^2.1.4",
     "history": "^1.17.0",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwks-rsa": "^1.7.0",
     "moment": "^2.24.0",
     "mongoose": "^5.9.7",
